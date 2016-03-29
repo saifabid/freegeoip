@@ -1,0 +1,101 @@
+{
+	"ImportPath": "github.com/saifabid/freegeoip/cmd/freegeoip",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/beorn7/perks/quantile",
+			"Rev": "3ac7bf7a47d159a033b107610db8a1b6575507a4"
+		},
+		{
+			"ImportPath": "github.com/bradfitz/gomemcache/memcache",
+			"Comment": "release.r60-41-gfb1f79c",
+			"Rev": "fb1f79c6b65acda83063cbc69f6bba1522558bfc"
+		},
+		{
+			"ImportPath": "github.com/fiorix/freegeoip",
+			"Comment": "v3.1.3-5-g58aba23",
+			"Rev": "58aba23e8e8960c74ef0a459987da1a397f127d2"
+		},
+		{
+			"ImportPath": "github.com/fiorix/go-redis/redis",
+			"Rev": "d987058b55eb470a35e9e18169011cd44bb20cc9"
+		},
+		{
+			"ImportPath": "github.com/go-web/httplog",
+			"Rev": "af42c81d955f70223960468f0339ec28856c3914"
+		},
+		{
+			"ImportPath": "github.com/go-web/httpmux",
+			"Rev": "b3bb6ae19f3987423d95a537c28252e9910bcad8"
+		},
+		{
+			"ImportPath": "github.com/go-web/httprl",
+			"Rev": "b3ce78c842307eef51215ae1bf5e1b9c1762befa"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "8d92cf5fc15a4382f8964b08e1f42a75c0591aa3"
+		},
+		{
+			"ImportPath": "github.com/howeyc/fsnotify",
+			"Comment": "v0.9.0-16-gf0c08ee",
+			"Rev": "f0c08ee9c60704c1879025f2ae0ff3e000082c13"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Comment": "v1-73-g999ba04",
+			"Rev": "999ba04938b528fb4fb859231ee929958b8db4a6"
+		},
+		{
+			"ImportPath": "github.com/matttproud/golang_protobuf_extensions/pbutil",
+			"Rev": "d0c3fe89de86839aecf2e0579c40ba3bb336a453"
+		},
+		{
+			"ImportPath": "github.com/oschwald/maxminddb-golang",
+			"Comment": "v0.2.0-37-g4b71dbb",
+			"Rev": "4b71dbb05875d304c473eb928ea22132a062fcb3"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_golang/prometheus",
+			"Comment": "0.7.0-74-g90c15b5",
+			"Rev": "90c15b5efa0dc32a7d259234e02ac9a99e6d3b82"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_model/go",
+			"Comment": "model-0.0.2-12-gfa8ad6f",
+			"Rev": "fa8ad6fec33561be4280a8f0514318c79d7f6cb6"
+		},
+		{
+			"ImportPath": "github.com/prometheus/common/expfmt",
+			"Rev": "40456948a47496dc22168e6af39297a2f8fbf38c"
+		},
+		{
+			"ImportPath": "github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
+			"Rev": "40456948a47496dc22168e6af39297a2f8fbf38c"
+		},
+		{
+			"ImportPath": "github.com/prometheus/common/model",
+			"Rev": "40456948a47496dc22168e6af39297a2f8fbf38c"
+		},
+		{
+			"ImportPath": "github.com/prometheus/procfs",
+			"Rev": "406e5b7bfd8201a36e2bb5f7bdae0b03380c2ce8"
+		},
+		{
+			"ImportPath": "github.com/rs/cors",
+			"Rev": "eb527c8097e0f19a3ff7b253a3fe70545070f420"
+		},
+		{
+			"ImportPath": "github.com/saifabid/freegeoip/apiserver",
+			"Comment": "v3.1.3-6-g33773ae",
+			"Rev": "33773ae6441d6b743bb2aa27eb617fceb5aafea4"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "621fff363a1d9ad7fdd0bfa9d80a42881267deb4"
+		}
+	]
+}

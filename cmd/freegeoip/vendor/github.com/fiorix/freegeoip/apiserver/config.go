@@ -48,7 +48,7 @@ type Config struct {
 // NewConfig creates and initializes a new Config with default values.
 func NewConfig() *Config {
 	return &Config{
-		ServerAddr:        ":" + os.Getenv("PORT"),
+		ServerAddr:        ":8080",
 		TLSCertFile:       "cert.pem",
 		TLSKeyFile:        "key.pem",
 		APIPrefix:         "/",
